@@ -1,0 +1,10 @@
+#1c.py program:Arithmetic Operators
+a=int(input("enter first number:"))
+b=int(input("enter second number:"))
+print('sum=',a+b)
+print('sub=',a-b)
+print('mul=',a*b)
+print('div=',a/b)
+print('floor div=',a//b)
+print('modulo=',a%b)
+print('power=',a**b)
